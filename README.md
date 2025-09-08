@@ -342,3 +342,11 @@ The application automatically selects the best performing model from available t
 - `detections_log.csv`: Log file of all detections (created automatically)
 ## Screenshot
 <img width="1912" height="868" alt="Screenshot 2025-08-29 003917" src="https://github.com/user-attachments/assets/d5c19477-76ae-48e4-8295-49b9c2997d20" />
+<img width="1915" height="863" alt="Screenshot 2025-08-29 003859" src="https://github.com/user-attachments/assets/4216d323-539d-42c2-8a55-356677a9d4ce" />
+<img width="1918" height="872" alt="Screenshot 2025-08-29 004023" src="https://github.com/user-attachments/assets/d2706d43-0ee6-475a-8cbd-eb7997e5b922" />
+
+## Contact me
+priyanshu345kumar@gmail.com
+Made with ❣️ and some coffee
+
+
